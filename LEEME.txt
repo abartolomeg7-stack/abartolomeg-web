@@ -1,0 +1,17 @@
+# Web de trabajo — ABARTOLOMEG
+
+Esta es una primera maqueta estática creada a partir de archivos de imagen y textos encontrados en la copia de seguridad de la web anterior.
+
+## Cómo verla
+1. Descomprime `web-abartolomeg-maqueta.zip`.
+2. Abre `index.html` en un navegador (doble clic).
+
+## Importante
+- Es una maqueta inicial, no está publicada en Internet.
+- No se han cambiado el dominio, DNS ni ningún servicio de alojamiento.
+- Se han reutilizado recursos de la copia de seguridad; conviene revisar imagen por imagen y confirmar textos, enlaces, permisos y datos de contacto antes de publicar.
+- Las páginas legales antiguas no se han trasladado automáticamente porque deben revisarse y adaptarse a la nueva web.
+- La web no incluye tienda ni pagos; el contacto es por correo e Instagram.
+
+## Siguiente fase
+Revisar la maqueta y las imágenes, ajustar textos/idiomas y después preparar la publicación en un alojamiento estático gratuito (por ejemplo GitHub Pages), conservando el dominio actual solo cuando se confirme que sigue activo y bajo tu control.

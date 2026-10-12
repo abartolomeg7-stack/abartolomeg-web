@@ -1,0 +1,42 @@
+# Inventario del contenido recuperado
+
+Fuente: copia de seguridad de WordPress de abril de 2026. Este documento resume contenido publicado detectado en la base de datos; no implica que todo siga vigente.
+
+## Páginas publicadas
+### Inicio — `/inicio/`
+
+Ilustrador y urban sketcher en SabadellIlustraciones personalizadas, retratos de mascotas y cursos de dibujo. Trabajo para particulares y autores. Desde Sabadell.Pide tu encargo n n Mi historia n Detrás de cada trazo n Soy Agustín Bartolomé González, un ilustrador y pintor apasionado por capturar la esencia y los detalles únicos de cada rincón del mundo. Mi arte no solo representa lugares, sino que también transmite las historias y emociones que estos espacios evocan. n n Conócemen n Explora y descubre n Mi mundo de ilustraciones n En esta página, podrás explorar una selección de mis obras más destacadas. Desde los rincones más emblemáticos de Sabadell hasta paisajes urbanos y naturales de diversos destinos, cada ilustración está llena de vida y detalle. Navega por las distintas secciones para descubrir mis proyectos, exposiciones, y colaboraciones. n testimonios n Joel      n Mensaje de nuestros clientes. n Rafa      n Mensaje de nuestros clientes. n Sin título n 8 de octubre de 2024n Para celebrar la graduación de mi hija, le pedí a Agustí que hiciera un dibujo especial. Capturó perfectamente la alegría y el orgullo de ese día. Su estilo le dio un toque único a un momento tan importante para nuestra familia. Ahora tenemos un recuerdo que siempre valoraremos. Estoy muy
+
+### Sobre mí – Agustí Bartolomé, ilustrador en Sabadell — `/sobre-mi/`
+
+Sobre mí n Soy Agustí Bartolomé González, ilustrador y urban sketcher desde Sabadell. Me especializo en ilustraciones personalizadas, retratos de mascotas, ilustración para autores y libros, y en enseñar a dibujar a personas que quieren aprender desde cero o mejorar su nivel. Si buscas un ilustrador para un encargo personal, un proyecto editorial o unas clases de dibujo, estoy aquí para ayudarte. n Mis logros n En esta página, podrás explorar una selección de mis obras más destacadas. Desde los rincones más emblemáticos de Sabadell hasta paisajes urbanos y naturales de diversos destinos, cada ilustración está llena de vida y detalle. Navega por las distintas secciones para descubrir mis proyectos, exposiciones, y colaboraciones. n n n n Publicaciones n Soy el autor del libro Racons de Sabadell , una obra de 80 páginas que reúne mis ilustraciones de los rincones más representativos de esta hermosa ciudad. He tenido el honor de colaborar en diversas publicaciones del Diari de Sabadell , compartiendo mis dibujos con la comunidad local. Además, soy el ilustrador del libro No es No de Ángeles Mañas, donde me encargué de la portada, contraportada y las ilustraciones interiores.” También soy el ilustrador del libro Construïm. Confidències, consells i pinzellades tècniques d'una cap d'ob
+
+### Contacto — `/contacto/`
+
+Conecta conmigo hoy n ¿Hablamos? Estoy aquí para ayudarte n Tanto si quieres una ilustración personalizada, un retrato de tu mascota, un proyecto para tu libro o apuntarte a un curso de dibujo, escríbeme y lo hablamos sin compromiso. n n n n n Teléfono móvil n n n 627 918 985 n n n n n Correo electrónico n n n abartolomeg7@gmail.com n Encargos personalizados n Escríbeme o envíe su testimonio n n nnnnnnnnnnn Tu reseña n n Tu puntuación globaln n Seleccionar una puntuación5 estrellas4 estrellas3 estrellas2 estrellas1 estrellan n Tu reseñan n n n Tu nombren n n Esta reseña se basa en mi propia experiencia y es mi opinión genuina. n ​ n Enviar una reseña n
+
+### Política de cookies (UE) — `/politica-de-cookies-ue/`
+
+[cmplz-document type="cookie-statement" region="eu"]
+
+### Cursos de dibujo — `/cursos-de-dibujo/`
+
+Aprende a dibujar conmigo, paso a paso n Cursos de dibujo con Agustí Bartolomé Cursos de dibujo urbano, ilustración y cuaderno de viaje para personas que quieren disfrutar dibujando, aunque crean que "no saben dibujar". En mis cursos combino la experiencia como ilustrador y urban sketcher con una forma cercana de enseñar. Trabajamos observación, encaje, perspectiva, color y cuaderno de viaje para que te sientas capaz de llenar tus libretas con dibujos propios, sin miedo y disfrutando del proceso. ¿Qué cursos puedes encontrar? No todos los alumnos necesitan lo mismo. Por eso ofrezco diferentes formatos y niveles, desde iniciación hasta dibujo urbano y cuaderno de viaje. Curso de dibujo urbano – Aprende a dibujar la ciudad, plazas, edificios y escenas cotidianas con tu cuaderno y acuarelas. Ideal para amantes del urban sketching. Curso de iniciación al dibujo – Para quienes sienten que "no saben dibujar" o llevan años sin coger un lápiz. Empezamos por encaje, proporciones, línea y manchas simples. Curso de perspectiva y encaje – Aprendemos a construir escenas creíbles: puntos de fuga, edificios, calles, interior de cafés, figuras en el espacio. Talleres monográficos – Sesiones puntuales sobre retratos rápidos, dibujo de personajes, diarios ilustrados de viaje, etc. ¿Para quién está
+
+## Entradas publicadas detectadas
+
+### Retratos Únicos: Ilustraciones de Mascotas — `/retratos-unicos-ilustraciones-de-mascotas/`
+
+n Bienvenido a mi sección dedicada a la ilustración de mascotas, donde el amor por nuestros amigos peludos se convierte en arte. Aquí encontrarás retratos personalizados que capturan la esencia y personalidad de cada animalito, desde perros y gatos hasta aves y reptiles. n nn n Cada ilustración es una celebración de la conexión especial que compartimos con nuestras mascotas. Utilizo técnicas de acuarela y digital para crear obras que no solo son visualmente atractivas, sino que también evocan emociones y recuerdos entrañables. n nn n A continuación, podrás explorar una variedad de ejemplos de mi trabajo, cada uno diseñado para resaltar la singularidad de cada mascota. ¡Espero que estas obras inspiren a los amantes de los animales a inmortalizar a sus compañeros de una manera única y artística! n nn n Si estás interesado en encargar un retrato de tu mascota, no dudes en ponerte en contacto conmigo. Estoy emocionado de trabajar juntos para crear una obra de arte que atesores para siempre. n
+
+### IX Trobada d'USk Catalunya a Montjuïc – 12 d'abril de 2026 — `/ix-trobada-dusk-catalunya-a-montjuic-12-dabril-de-2026/`
+
+n n nn n Arribada, acreditacions i primeres xerrades n nn n El diumenge 12 d'abril de 2026 vaig tenir la sort de participar en la IX Trobada d'Urban Sketchers Catalunya a Montjuïc , una jornada que va omplir la muntanya de quaderns, taques de color i molt bona energia. Des de primera hora del matí l'ambient ja prometia: grups de sketchers arribant de tot arreu, retrobaments, abraçades i moltes ganes de dibuixar. n nn n La trobada começava a l'entorn de la Font Màgica i el Teatre Lliure de Montjuïc, on ens vam anar reunint sota les banderoles d'USk Catalunya. Mentre ens acreditàvem i recollíem la informació del dia, ja se sentia aquell murmuri de llapis afilant-se, plomes preparades i mirades curioses buscant racons interessants. n nn n Va ser el moment ideal per saludar companys d'altres grups, posar cara a gent que només coneixia per xarxes i retrobar-me amb la colla de Dibuixantsabadell . De seguida vam començar a comentar possibles localitzacions, rutes i horaris, perquè el programa s'allargava tot el dia, fins a la tarda. n nn n n nn n Esmorzar i plans de dibuix n nn n En comptes de parar a dinar, el que vam fer va ser un bon esmorzar per agafar forces abans de submergir-nos del tot en el dibuix. Entre cafès, entrepans i alguna pasta, la conversa girava al voltant de materials, papers, tintes i estratègies per aprofitar el matí. n nn n També vam organitzar una mica el temps: jo sabia que només podria quedar-me fins a les 14:00, així que vaig triar bé on volia dedicar les meves hores de dibuix. Altres companys, en canvi, van planificar quedar-se fins a la tarda i aprofit
+
+## Elementos a revisar antes de publicar
+
+- Revisar los textos de presentación y decidir si deben actualizarse.
+- Confirmar el email y cualquier dato de contacto.
+- Crear o revisar aviso legal, privacidad, cookies y accesibilidad según la web nueva.
+- Comprobar que cada imagen elegida representa el proyecto adecuado y que tiene resolución suficiente.
+- La antigua tienda/carrito no se ha recreado porque el objetivo actual es recibir consultas por contacto, no vender directamente.
